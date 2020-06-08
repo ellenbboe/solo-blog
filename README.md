@@ -16,6 +16,7 @@ Kosmos
 * [游戏记忆-古剑奇谭](https://zdone.top/articles/2020/05/17/1589700910835.html)
 * [游戏记忆-怪物猎人](https://zdone.top/articles/2020/05/17/1589700629891.html)
 * [五只龙之话](https://zdone.top/articles/2020/05/17/1589700330530.html)
+* [喂，那前面可是地狱啊。](https://zdone.top/articles/2020/05/02/1588408685679.html)
 * [『君の名は。』剪辑尝试](https://zdone.top/articles/2020/03/18/1584499865232.html)
 * [千磨万击还坚劲,任尔东南西北风 For 2019](https://zdone.top/articles/2020/01/12/1578804303182.html)
 * [Idea中添加缩写](https://zdone.top/articles/2020/01/10/1578664639048.html)
@@ -29,7 +30,6 @@ Kosmos
 * [学习笔记|泛型](https://zdone.top/articles/2019/08/10/1565417420305.html)
 * [学习笔记|List,Set和Map](https://zdone.top/articles/2019/08/09/1565336255411.html)
 * [剑指Offer算法题 (1)](https://zdone.top/articles/2019/08/08/1565226284855.html)
-* [学习笔记|单例模式](https://zdone.top/articles/2019/08/07/1565149531588.html)
 
 ### 热门
 
@@ -38,6 +38,7 @@ Kosmos
 * [学习笔记|理解Java虚拟机](https://zdone.top/articles/2019/07/08/1562573236143.html)
 * [学习笔记|HashMap和ConcurrentHashMap](https://zdone.top/articles/2019/07/23/1563870255078.html)
 * [学习笔记|多线程和并发](https://zdone.top/articles/2019/07/11/1562843459673.html)
+* [学习笔记|单例模式](https://zdone.top/articles/2019/08/07/1565149531588.html)
 * [学习笔记|红黑树的故事](https://zdone.top/articles/2019/07/23/1563880948319.html)
 * [常见排序算法](https://zdone.top/articles/2019/07/24/1563976568637.html)
 * [学习笔记|异常体系](https://zdone.top/articles/2019/07/24/1563974945220.html)
@@ -52,7 +53,6 @@ Kosmos
 * [剑指offer_Part4](https://zdone.top/articles/2019/04/09/1561009686522.html)
 * [盲](https://zdone.top/articles/2018/09/23/1561009688084.html)
 * [迷时](https://zdone.top/articles/2018/07/17/1561009685768.html)
-* [观药神有感](https://zdone.top/articles/2018/07/25/1561009687903.html)
 
 ### 热议
 
