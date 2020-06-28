@@ -5,7 +5,7 @@ Kosmos
 <h4 align="center">---我们总得选择一条路去前行---</h4>
 <p align="center"><a title="Kosmos" target="_blank" href="https://github.com/ellenbboe/solo-blog"><img src="https://img.shields.io/github/last-commit/ellenbboe/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/ellenbboe/solo-blog"><img src="https://img.shields.io/github/repo-size/ellenbboe/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.1.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.2.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/ellenbboe/solo-blog.svg"></a></p>
 
 ### 最新
